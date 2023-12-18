@@ -50,5 +50,5 @@
 </p>
 
 <div align="center" style="background-color: black;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manaxs011&&theme=xcode" alt="manaxs011" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manaxs011&show_icons=true&locale=en&layout=compact" alt="manaxs011" />
 </div>
