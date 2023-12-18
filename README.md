@@ -1,5 +1,6 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+![dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8 (1)](https://github.com/manaxs011/manaxs011/assets/126599203/d5c138c8-02e4-4b4e-832b-e76d7819b764)
 <h1 align="center">Hi 👋, I'm Manas T</h1>
+
 
 <h3 align="center">I am a passionate data analyst and data visualization engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
